@@ -10,5 +10,4 @@ npm i -S react react-dom react-addons-pure-render-mixin
 
 meteor
 
-
-
+meteor add accounts-ui accounts-password
